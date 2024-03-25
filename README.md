@@ -25,3 +25,7 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 ```
 
 - `cd` into the project directory and follow along with the [tutorial](https://freshman.tech/web-development-with-go/).
+
+## To do
+
+1. Create a web server (x)
