@@ -40,3 +40,4 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 10. Formating the published date (x)
 11. Displaying the total number of results (x)
 12. Paginating the results (x)
+13. Indicate the current page (x)
