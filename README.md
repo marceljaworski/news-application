@@ -38,3 +38,5 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 8. Make requests to the News API (x)
 9. Rendering the results (x)
 10. Formating the published date (x)
+11. Displaying the total number of results (x)
+12. Paginating the results (x)
