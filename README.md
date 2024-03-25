@@ -29,3 +29,4 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 ## To do
 
 1. Create a web server (x)
+2. Read variables from .env (x)
