@@ -30,3 +30,5 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 
 1. Create a web server (x)
 2. Read variables from .env (x)
+3. Add html/template
+4. Add a navigation bar (x)
