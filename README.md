@@ -30,5 +30,8 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 
 1. Create a web server (x)
 2. Read variables from .env (x)
-3. Add html/template
+3. Add html/template (x)
 4. Add a navigation bar (x)
+5. Serving static files (x)
+6. Create the search route that handles search requests for news articles. (x)
+7. Crate the News API client (x)
