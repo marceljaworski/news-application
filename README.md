@@ -35,3 +35,4 @@ $ git clone https://github.com/Freshman-tech/news-demo-starter-files
 5. Serving static files (x)
 6. Create the search route that handles search requests for news articles. (x)
 7. Crate the News API client (x)
+8. Make requests to the News API (x)
